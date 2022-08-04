@@ -26,7 +26,7 @@
 
 ###
 
-<aling="center" a href="https://discordapp.com/users/592928828674932769" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/592928828674932769.png"/></a>
+<align="center" a href="https://discordapp.com/users/592928828674932769" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/592928828674932769.png"/></a>
 
 ###
 
