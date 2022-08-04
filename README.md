@@ -18,13 +18,9 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Bulxcy/Bulxcy/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/cypsfi7tuhioi7oybudlk1rby">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+    <img src="[https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false](https://spotify-recently-played-readme.vercel.app/api?user=cypsfi7tuhioi7oybudlk1rby)" alt="Spotify recently played"  />
   </a>
 </div>
 
