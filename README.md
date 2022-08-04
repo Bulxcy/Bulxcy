@@ -19,14 +19,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/cypsfi7tuhioi7oybudlk1rby">
-    <img src="[https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false](https://spotify-recently-played-readme.vercel.app/api?user=cypsfi7tuhioi7oybudlk1rby)" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <a href="https://discordapp.com/users/592928828674932769" target="_blank"> 
   <img src="https://discord.c99.nl/widget/theme-2/592928828674932769.png"/></a>
 </div>
