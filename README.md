@@ -18,8 +18,8 @@
 ###
 
 <div align="center">
-  <a href="https://discordapp.com/users/592928828674932769" target="_blank"> 
-  <img src="https://discord.c99.nl/widget/theme-2/592928828674932769.png"/></a>
+  <a href="https://discordapp.com/users/308720865456160768" target="_blank"> 
+  <img src="https://api.terrorist.me/api/308720865456160768"/></a>
 </div>
 
 ###
